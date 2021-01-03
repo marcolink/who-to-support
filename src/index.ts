@@ -8,7 +8,7 @@ class WhoToSupport extends Command {
   static flags = {
     version: flags.version({char: 'v'}),
     help: flags.help({char: 'h'}),
-    token: flags.string({char: 't', default: process.env.GH_TOKEN}),
+    token: flags.string({char: 't'}),
   }
 
   static args = [{name: 'query'}]
@@ -16,7 +16,9 @@ class WhoToSupport extends Command {
   async run(): Promise<void> {
     const {args, flags} = this.parse(WhoToSupport)
 
-    if (!flags.token) {
+    const token = flags.token || process.env.GH_TOKEN
+
+    if (!token) {
       this.error('no token provided')
     }
 
@@ -26,7 +28,7 @@ class WhoToSupport extends Command {
 
     this.log('')
 
-    return tasks(args.query, flags.token)
+    return tasks(args.query, token)
     .run()
     .then(ctx => render(ctx.model, this))
     .catch(this.error)
