@@ -11,7 +11,7 @@
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
-    "@oclif/plugin-help": "^2",
+    "@oclif/plugin-help": "^3",
     "@supercharge/promise-pool": "^1.6.0",
     "chalk": "^4.1.0",
     "cli-table": "^0.3.4",
@@ -20,7 +20,7 @@
     "listr": "^0.14.3",
     "node-emoji": "^1.10.0",
     "node-fetch": "^2.6.1",
-    "tslib": "^1"
+    "tslib": "^2"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
