@@ -41,21 +41,21 @@ npx who-to-support "user:marcolink"
   ✔ Found 58 github projects
   ✔ Received data for 30 dependencies
 
-╔════════════════╤═════════════╤═════════════════════════════════╤═══════════╗
-║     Owner      │ Occurrences │ User/Org                        │ Sponsored ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║     Babel      │           2 │ https://github.com/babel        │    ❕     ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║    typicode    │           1 │ https://github.com/typicode     │    ❕     ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║  Daniel Bugl   │           1 │ https://github.com/omnidan      │    ❕     ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║ Sindre Sorhus  │           1 │ https://github.com/sindresorhus │    ❕     ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║     ESLint     │           1 │ https://github.com/eslint       │    ❕     ║
-╟────────────────┼─────────────┼─────────────────────────────────┼───────────╢
-║ Gajus Kuizinas │           1 │ https://github.com/gajus        │    ❕     ║
-╚════════════════╧═════════════╧═════════════════════════════════╧═══════════╝
+╔════════════════╤═════════════╤═════════════════════════════════╗
+║     Owner      │ Occurrences │ User/Org                        ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║     Babel      │           2 │ https://github.com/babel        ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║    typicode    │           1 │ https://github.com/typicode     ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║  Daniel Bugl   │           1 │ https://github.com/omnidan      ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║ Sindre Sorhus  │           1 │ https://github.com/sindresorhus ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║     ESLint     │           1 │ https://github.com/eslint       ║
+╟────────────────┼─────────────┼─────────────────────────────────╢
+║ Gajus Kuizinas │           1 │ https://github.com/gajus        ║
+╚════════════════╧═════════════╧═════════════════════════════════╝
 
 You use 59 unique npm dependencies from 30 different creators.
 You're currently sponsoring 0 creators of 6 who could be sponsored.
