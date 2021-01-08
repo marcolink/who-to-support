@@ -11,7 +11,7 @@
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
-    "@oclif/plugin-help": "^2",
+    "@oclif/plugin-help": "^3",
     "@supercharge/promise-pool": "^1.6.0",
     "chalk": "^4.1.0",
     "cli-table": "^0.3.4",
