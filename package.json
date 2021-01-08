@@ -38,7 +38,7 @@
     "eslint-config-oclif": "^3.1",
     "eslint-config-oclif-typescript": "^0.2",
     "mocha": "^5",
-    "nyc": "^14",
+    "nyc": "^15",
     "semantic-release": "^17.3.0",
     "ts-node": "^9",
     "type-fest": "^0.20.2",
