@@ -5,7 +5,6 @@ find the right projects to sponsor
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/who-to-support.svg)](https://npmjs.org/package/who-to-support)
-[![Codecov](https://codecov.io/gh/marcolink/who-to-support/branch/master/graph/badge.svg)](https://codecov.io/gh/marcolink/who-to-support)
 [![Downloads/week](https://img.shields.io/npm/dw/who-to-support.svg)](https://npmjs.org/package/who-to-support)
 [![License](https://img.shields.io/npm/l/who-to-support.svg)](https://github.com/marcolink/who-to-support/blob/master/package.json)
 
