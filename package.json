@@ -30,7 +30,7 @@
     "@types/chalk": "^2.2.0",
     "@types/cli-table": "^0.3.0",
     "@types/listr": "^0.14.2",
-    "@types/mocha": "^5",
+    "@types/mocha": "^8",
     "@types/node": "^14",
     "@types/node-fetch": "^2.5.7",
     "chai": "^4",
